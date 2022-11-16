@@ -1,6 +1,7 @@
 - 👋 안녕하세요 저는 한예찬입니다.
-- 👀 저는 웹, 백엔드, DB관련 기술에 관심이있습니다.
-- 🌱 happy happy happy happy happy happy happy...
+- 🌼 열심히 소통하는 개발자가 꿈입니다.
+- 👀 저는 프론트엔드, 백엔드, DB관련 기술에 관심이있습니다.
+- 🌱 PLAYDATA에서 6개월간 교육을 받았습니다.
 - 👊 email : hanyechan95@gmail.com
 
 <!---
